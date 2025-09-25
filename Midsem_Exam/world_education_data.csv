@@ -1,0 +1,11 @@
+country,country_code,year,gov_exp_pct_gdp,lit_rate_adult,pri_comp_rate_pct,pupil_teacher_primary,pupil_teacher_secondary,school_enroll_primary_pct
+Norway,NOR,2020,7.5,99,98,12,10,97
+Finland,FIN,2020,6.8,100,99,11,9,98
+India,IND,2020,3.8,77,95,25,20,92
+United States,USA,2020,5.2,99,98,15,13,96
+Brazil,BRA,2020,4.7,93,96,20,17,94
+Kenya,KEN,2020,6.0,81,90,32,28,89
+South Africa,ZAF,2020,6.5,87,92,30,25,91
+Germany,DEU,2020,5.0,99,99,13,11,97
+Japan,JPN,2020,4.2,100,99,16,14,98
+Nepal,NPL,2020,4.5,71,85,35,30,87
